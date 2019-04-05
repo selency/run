@@ -1,4 +1,4 @@
-# Run
+# Run ![travis-badge](https://travis-ci.com/selency/run.svg?branch=master)
 
 Run is the simplest way to run a command and post its execution status to slack :
 
